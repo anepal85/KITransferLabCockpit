@@ -1,0 +1,5 @@
+names:
+- machine
+nc: 1
+train: D:\KI_TransferLAb\Cockpit\AUT-project-demonstrator-room-cockpit\CockPitApp\Data\YOLOv8\data\52387256-a3c7-44a8-b508-835652ae301c\images\train
+val: D:\KI_TransferLAb\Cockpit\AUT-project-demonstrator-room-cockpit\CockPitApp\Data\YOLOv8\data\52387256-a3c7-44a8-b508-835652ae301c\images\val

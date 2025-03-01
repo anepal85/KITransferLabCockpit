@@ -1,0 +1,7 @@
+names:
+- background
+- machine_2
+nc: 2
+test: D:\KI_TransferLAb\Cockpit\AUT-project-demonstrator-room-cockpit\CockPitApp\Data\YOLOv8\data\6693bc57-e4ce-40bd-8148-53be362ea2c1\images\test
+train: D:\KI_TransferLAb\Cockpit\AUT-project-demonstrator-room-cockpit\CockPitApp\Data\YOLOv8\data\6693bc57-e4ce-40bd-8148-53be362ea2c1\images\train
+val: D:\KI_TransferLAb\Cockpit\AUT-project-demonstrator-room-cockpit\CockPitApp\Data\YOLOv8\data\6693bc57-e4ce-40bd-8148-53be362ea2c1\images\val

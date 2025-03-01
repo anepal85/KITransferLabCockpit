@@ -1,0 +1,9 @@
+/CockPitApp/Data/wood_25_01_2023
+/CockPitApp/Data/wood_25_01_2023_v2
+CockPitApp/Data/YOLOv8/execution*
+CockPitApp/Data/YOLOv8/execution_test*
+.vscode/*
+__pycache__
+/.vscode
+CockPitApp/rc_icons.py 
+CockPitApp/Icons
