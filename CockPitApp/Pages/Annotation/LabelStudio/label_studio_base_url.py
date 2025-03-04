@@ -1,7 +1,0 @@
-# Constants
-LABEL_STUDIO_PORT = 8080
-LABEL_STUDIO_USERNAME = 'anepal857@gmail.com'
-LABEL_STUDIO_PASSWORD = '7Anjita2aa*'
-LABEL_STUDIO_BASE_URL = f'http://localhost:{LABEL_STUDIO_PORT}'
-
-token = '52297494adebaf4e6826df8e743b072fb508a2e1'
