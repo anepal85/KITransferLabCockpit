@@ -5,7 +5,7 @@ class DefaultUser():
     IT has a Token with some default username and password'''
 
     def __init__(self) -> None:
-        self.username = 'anepal857@gmail.com'
-        self.password = '7Anjita2aa*'
+        self.username = '----@gmail.com'
+        self.password = 'xxxxxxxxxxxxx'
 
-        self.token = '52297494adebaf4e6826df8e743b072fb508a2e1'
+        self.token = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
